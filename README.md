@@ -112,7 +112,7 @@ If you like this project, please ⭐ star the repository — it helps a lot!
 Pull requests, suggestions, and improvements are always welcome.
 ```
 
-3### 👩‍💻 Author: Nandini Mamillapalli
+#### 👩‍💻 Author: Nandini Mamillapalli
 
 #### 🔗 GitHub: https://github.com/imNandini19
 
