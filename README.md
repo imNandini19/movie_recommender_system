@@ -95,10 +95,13 @@ api_key = "YOUR_API_KEY"
 ```
 
 ### 📸 Screenshots
-🎥 Home Page
+
+#### 🎥 Home Page
 ![Homepage](homepage.png)
-Demo search
+
+#### 🔍 Demo Search
 ![Search Demo](demo_search.png)
+
 
 
 ### ⭐ Support & Contributions
@@ -107,9 +110,9 @@ Demo search
 If you like this project, please ⭐ star the repository — it helps a lot!
 
 Pull requests, suggestions, and improvements are always welcome.
-
-
-👩‍💻 Author: Nandini Mamillapalli
-
-🔗 GitHub: https://github.com/imNandini19
 ```
+
+3### 👩‍💻 Author: Nandini Mamillapalli
+
+#### 🔗 GitHub: https://github.com/imNandini19
+
