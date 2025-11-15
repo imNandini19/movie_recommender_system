@@ -2,3 +2,4 @@ venv/
 *.pkl
 *.ipynb
 *.csv
+!similarity_final.pkl.gz
